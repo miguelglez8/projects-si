@@ -1,0 +1,3 @@
+(move pos2 pos1 nueve dos)
+(move pos1 pos4 nueve uno)
+(move pos4 pos5 nueve ocho)

@@ -1,0 +1,3 @@
+(desapilar c a)
+(apilar b c)
+(apilar a b)

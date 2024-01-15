@@ -1,0 +1,7 @@
+(soltar d)
+(desapilar c a)
+(soltar c)
+(coger b)
+(apilar b c)
+(coger a)
+(apilar a b)
